@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+              <head>
+			  <title> ART277 assignment#2</title>
+			  </head>
+			  
+				<body>
+      <p>
+        HTML Class <br>
+<address> 
+      Starz University<br>
+       Chessman Avenue, Airfield, Sinkor <br>
+       Monrovia-Liberia
+	   
+</address>
+      </p>
+      <hr>
+
+   
+     <h1><font size="14"> <B> What is Lorem Ipsum?</B> </font> </h1>
+   
+     <p> <b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry.<br>
+	    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br>
+	    when an unknown printer took a galley of type anbd scrambled it to make a type specimen book.<br>
+	    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<br>
+	    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,<br>
+	    and more recently with desktop publishing software like <I><B><U>Aldus PageMaker</U></B></I> including versions of <U>Lorem Ipsum.</U><br>
+	    1914 translation by H. Rackham
+		</p>
+ 
+  <p>
+	 But I must explain to you how all this mistaken idea of denouncing pleasure<br>
+	 and praising pain was born anD I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth,<br>
+	 the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure,<br>
+	 but because those who do not know how to pursue pleasure rationally enconter consequences that are extremely painful.<br>
+	 Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in<br>
+	 which toil and pain can procure him some great pleasure.
+ </p>
+
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of the page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here , making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for lorem Ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like). 
+
+Where can I get some?
+There are many variation of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomized words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the internet tend to repeat predefined chunks as necessary, making this the first true generator on the internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. 
